@@ -1,6 +1,8 @@
 # YOLOv8 小蚂蚁检测项目
 
-使用 Ultralytics YOLOv8 训练蚂蚁（小物体）检测模型。包含 Gradio demo。
+使用 Ultralytics YOLOv8 训练蚂蚁（小物体）检测模型，mAP@0.5: 0.98，mAP@0.5:0.95: 0.64
+
+。包含 Gradio demo。
 
 ## 文件
 - best.pt: 训练模型
